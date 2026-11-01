@@ -42,3 +42,27 @@ I'm an ECE student passionate about exploring technology, developing innovative 
 I'm always interested in learning, collaborating, and building something meaningful.
 
 ⭐ Thanks for visiting my profile!
+
+
+---
+
+### 💻 Languages and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,arduino,git,github,vscode" />
+</p>
+
+### 🤖 AI & Machine Learning
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
+
+### 🔌 Embedded Systems
+
+<p align="left">
+  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+</p>
