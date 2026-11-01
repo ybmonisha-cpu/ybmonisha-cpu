@@ -66,3 +66,28 @@ I'm always interested in learning, collaborating, and building something meaning
   <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 </p>
+
+
+---
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ybmonisha-cpu&show_icons=true&theme=tokyonight&include_all_commits=true" />
+</p>
+
+### 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ybmonisha-cpu&layout=compact&theme=tokyonight" />
+</p>
+
+### 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ybmonisha-cpu&theme=tokyonight" />
+</p>
+
+---
+
+⭐ *Thanks for visiting my profile!*
